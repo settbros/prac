@@ -1,0 +1,5 @@
+com/example/prac/controller/Controller1.class
+com/example/prac/repository/PersonRepository.class
+com/example/prac/service/PersonService.class
+com/example/prac/PracApplication.class
+com/example/prac/entity/Person.class
